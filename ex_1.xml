@@ -1,0 +1,22 @@
+<source>
+  <jobs>
+    <job>
+      <position>DOT- Transport Driver - Tioga, ND</position>
+      <created_at>Tue, 26 Sep 2014 00:00:00 GMT</created_at>
+      <url>http://example.com/jobs/dot-tioga</url>
+      <city>Tioga</city>
+      <state>ND</state>
+      <id>10981-some-unique-id</identifier>
+      <description>Great job opportunity!</description>
+    </job>
+    <job>
+      <position>Truck driver</position>
+      <created_at>Tue, 22 Sep 2014 00:00:00 GMT</created_at>
+      <url>http://example.com/jobs/truck-driver</url>
+      <city>New York</city>
+      <state>NY</state>
+      <id>10945</identifier>
+      <description>Another great job opportunity</description>
+    </job>
+  </jobs>
+</source>
